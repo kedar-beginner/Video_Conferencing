@@ -70,4 +70,4 @@ Please adhere to this project's `code of conduct`.
 
 ## Authors
 
-- [@rachit2702](https://github.com/kedar-beginner)
+- [@kedar-beginner](https://github.com/kedar-beginner)
