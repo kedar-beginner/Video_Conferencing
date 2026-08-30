@@ -70,9 +70,4 @@ Please adhere to this project's `code of conduct`.
 
 ## Authors
 
-- [@rachit2702](https://github.com/rachit-2702)
-- [@ayushavi1](https://github.com/ayushavi1)
-- [@saksham218](https://github.com/saksham218)
-- [@sparshva](https://github.com/sparshva)
-- [@lolzone13](https://github.com/lolzone13)
-- [@Unknowncode07](https://github.com/Unknowncode07)
+- [@rachit2702](https://github.com/kedar-beginner)
